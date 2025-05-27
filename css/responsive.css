@@ -1,0 +1,1466 @@
+@media only screen and (max-width: 1600px) {
+
+    .work-desc-content {
+        padding-left: 150px;
+        padding-bottom: 150px;
+    }
+    .work-desc-content2 {
+        padding-right: 150px;
+        padding-bottom: 150px;
+        padding-left: 60px;
+    }
+    .work-desc-img {
+        height: 707px;
+    }
+    .service-main-section .srevice-counter h4 .italic-font {
+        font-size: 22px;
+    }
+    
+}
+
+@media only screen and (max-width: 1440px) {
+    .homebanner {
+        padding: 135px 0 30px 0;
+    }
+    .video-section .heading1-w h2 {
+        font-size: 55px;
+    }
+    .mainvideo-container {
+        margin-top: 22px;
+    }
+    .work-desc-content {
+        padding-left: 75px;
+        padding-bottom: 150px;
+    }
+    .work-desc-content2 {
+        padding-right: 75px;
+        padding-bottom: 150px;
+        padding-left: 60px;
+    }
+    .page-banner .main-heading h1 {
+        font-size: 68px;
+
+    }
+        .page-banner .main-heading p {
+        padding-top: 6px;
+        }
+        .page-banner .main-heading {
+            padding-bottom: 35px;
+        }
+        .portfolio .portfolio-filters li {
+            font-size: 40px;
+            margin-bottom: 10px;
+        }
+        .portfolio .portfolio-card .portfolio-image {
+            height: 280px;
+        }
+        .portfolio .portfolio-card .portfolio-content .category {
+            font-size: 32px;
+        }
+    .work-desc-content .main-heading {
+        font-size: 45px;
+        font-weight: 400;
+        line-height: 50px;
+        padding-right: 60px;
+    }
+    .heading1-w h2 {
+        font-size: 40px;
+        line-height: 50px;
+        font-weight: 600;
+    }
+    
+.banner-service-box {
+    margin: 16px;
+}
+.work-desc-img {
+    height: 687px;
+}
+
+.service-main-section .srevice-counter h4 .italic-font {
+    font-size: 18px;
+}
+.service-category-img {
+      height: 140px;
+}
+.heading1.about-team-text p {
+    font-size: 15px;
+    line-height: 20px;
+    margin-top: 125px;
+}
+}
+
+@media only screen and (max-width: 1366px) {
+
+.hero-area4 .main-heading h1 {
+    font-size: 58px;
+    line-height: 66px;
+}
+/* .sp {
+    padding: 65px 0px;
+} */
+
+.logo-slider3 .slick-slide {
+    display: block;
+    padding: 15px;
+    margin: 2px;
+}
+.video-text-content h2, .video-text-content p {
+    padding: 0 0px 0 30px ;
+}
+
+.video-text-content h2{
+font-size: var(--f-fs-font-fs28);
+line-height: var(--f-fs-font-fs40);
+}
+
+.video-area .reveal{
+    height:630px;
+}
+
+.heading1 h2 {
+    font-weight: var(--f-fw-semibold);
+}
+.pricing-table .pricing-icon-box {
+    max-width: 68px;
+}
+/* .pricing-table tbody tr td:first-child {
+    width: 100px;
+} */
+.sticky-col + .sticky-col {
+    left: 100px;
+}
+.pricing-table td svg {
+    height: 24px;
+    width: 24px;
+}
+.pricing-table tbody tr td:nth-child(2) {
+    max-width: 255px;
+}
+.heading1-w h2 {
+    font-size: 38px;
+    line-height: 42px;
+    font-weight: 400;
+}
+.pricing-table.table-wrapper {
+    max-width: 100%;
+    overflow-x: auto;
+    margin-top: 10px;
+}
+.video-section .heading1-w h2 {
+    font-size: 50px;
+}
+.video-section .heading1-w .bottom-sub-heading {
+    font-size: 15px;
+}
+.heading1-w .top-sub-heading {
+    font-size: 17px;
+}
+.mission .heading1-w h2 {
+    font-size: 26px;
+    line-height: 33px;
+}
+
+.heading1 p {
+    font-size: 26px;
+    line-height: 34px;
+    margin-bottom: 26px;
+}
+.heading1 h2 {
+    font-size: 40px;
+}
+
+.banner-service-box {
+    margin: 10px;
+}
+
+.hero-area4 .main-heading p {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+.pricing-section .heading1 h2 {
+    font-size: 40px;
+}
+.pricing-table tbody tr td:first-child {
+    
+    padding-left: 45px;
+}
+.pricing-table th {
+    padding-bottom: 11px;
+}
+.pricing-table td {
+    padding: 23px 8px;
+}
+.img-position {
+    height: 320px;
+}
+.service-right-box {
+    height: 664px;
+}
+.heading3 h4 a {
+    font-size: 17px;
+}
+.heading3 .heading3-sub {
+    margin-top: -4px;
+    font-size: 12px;
+    font-weight: 300;
+}
+.heading3 p {
+    font-size: 13px;
+    margin-top: 6px;
+    margin-bottom: 10px;
+    font-weight: 300;
+    max-width: 300px;
+    line-height: 17px;
+}
+.service3 .service3-box .icon {
+    height: 28px;
+    width: 28px;
+}
+.bottom-mission-box {
+    color: var(--secondary-color);
+    padding: 0px 15px;
+}
+.theam-testimonial-img {
+    height: 530px;
+}
+.testimonial-comment {
+    font-size: 23px;
+}
+.next-next-arrow, .prev-prev-arrow {
+    width: 36px;
+    height: 36px;
+}
+.work-desc-content .main-heading {
+    font-size: 45px;
+    font-weight: 400;
+    line-height: 50px;
+    padding-right: 20px;
+}
+.work-desc-content .main-heading {
+    font-size: 42px;
+    line-height: 44px;
+    padding-right: 20px;
+    margin-top: 5px;
+}
+.work-desc-content {
+    padding-left: 120px;
+    padding-bottom: 95px;
+}
+.work-desc-content2 {
+    padding-right: 120px;
+    padding-bottom: 95px;
+    padding-left: 60px;
+}
+.footer-heading .heading1 h2 {
+    font-size: 56px;
+}
+.single-footer-items h3 {
+    font-size: 20px;
+}
+.single-footer-items .footer-servies-heading {
+    font-size: 16px;
+}
+.footer-heading .heading1 h2 sup {
+    font-size: 22px;
+}
+.bottom-mission-box .icon {
+    height: 58px;
+    width: 48px;
+   
+}
+.footer-heading {
+    margin-bottom: 30px;
+}
+.site-logo img, .mobile-logo img  {
+    max-height: 50px;
+}
+.header-area.header-area1 .header-elements .main-menu-ex ul li a {
+    color: #fff;
+    font-size: 15px;
+    display: block;
+    padding: 18px 18px;
+    transition: all 0.3s;
+}
+.work-desc-img {
+    height: 642px;
+}
+/* .portfolio .row>* {
+    padding-right: calc(var(--bs-gutter-x) * .2);
+    padding-left: calc(var(--bs-gutter-x) * .2);
+} */
+.page-banner .main-heading h1 {
+    font-size: 62px;
+}
+.img-position5 {
+    height: 400px;
+}
+.why-choose-counter-item {
+    padding: 0 5px;
+}
+.service-main-section .srevice-counter h3 {
+    font-size: 50px;
+    color: var(--secondary-color);
+    font-weight: 400;
+}
+.service-main-section .srevice-counter h3 {
+    font-size: 50px;
+    }
+
+    .text-slider-work .at-text-slider-item, .text-slider-work .at-text-item{
+        padding: 13px 20px;
+    }
+    .service3-box.pricing-service-box-height .heading3 h4 a {
+        font-size: 17px;
+    }
+    .service3-box.pricing-service-box-height .heading3 p {
+        font-size: 13px;
+    }
+    .heading1.about-team-text p {
+        font-size: 15px;
+        line-height: 20px;
+        margin-top: 110px;
+    }
+
+}
+
+
+@media only screen and (max-width: 1280px) {
+
+    .work-desc-content {
+        padding-left: 75px;
+        padding-bottom: 80px;
+    }
+    .work-desc-content2 {
+        padding-right: 75px;
+        padding-bottom: 80px;
+        padding-left: 60px;
+    }
+    .work-second-box {
+        font-size: 14px;
+        padding-right: 60px;
+        font-weight: 300;
+        margin-top: 160px;
+        margin-bottom: 30px;
+    }
+    .bottom-mission-box .heading1 p {
+        font-size: 14px;
+        font-weight: 400;
+    }
+    .theam-testimonial-img {
+        height: 500px;
+    }
+    .testimonial-comment {
+        font-size: 20px;
+    }
+    .pricing-table tr td p {
+        font-weight: 400;
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .pricing-table tr td h5 {
+        font-size: 18px;
+    }
+    .pricing-table tbody tr td:first-child {
+        padding-left: 35px;
+    }
+    .pricing-table td {
+        padding: 20px 8px;
+    }
+    .pricing-section .heading1 h2 {
+        font-size: 38px;
+    }
+    .work-desc-content .main-heading {
+        font-size: 38px;
+    }
+    .footer-heading .heading1 h2 {
+        font-size: 50px;
+    }
+    .footer-heading {
+        margin-bottom: 20px;
+    }
+    .mission-img2 {
+        height: 540px;
+    }
+    .mission-img1 {
+        height: 233px;
+    }
+    .mission .mission-box .title {
+        font-size: 23px;
+    }
+    .heading1 h2 {
+        font-size: 38px;
+    }
+    .heading1 p {
+        font-size: 24px;
+        line-height: 32px;
+        margin-bottom: 26px;
+    }
+    .footer1 {
+        padding-top: 65px;
+    }
+    .footer-heading .buttons a {
+        margin-top: 10px;
+    }
+    .footer1 .single-footer-items ul.menu-list li a {
+        padding: 4px 0px;
+    }
+    .video-section .heading1-w h2 {
+        font-size: 45px;
+    }
+    .video-section .heading1-w .bottom-sub-heading {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .heading1-w h2 {
+        font-size: 36px;
+        line-height: 37px;
+        font-weight: 400;
+    }
+    .work-desc-img {
+        height: 560px;
+    }
+    .portfolio .portfolio-filters li {
+        font-size: 35px;
+        padding: 4px 14px;
+    }
+    .portfolio .portfolio-card .portfolio-content .category {
+        font-size: 28px;
+    }
+    .portfolio-filters-container{
+        margin-bottom: 15px;
+    }
+    .why-choose-counter-content.srevice-counter h3{
+        display: block;
+    }
+    .service-main-section .srevice-counter p {
+        font-size: 12px;
+    }
+    .why-choose-counter-content.srevice-counter h4 {
+        font-size: 16px;
+    }
+    .service-category-box h3 {
+        font-size: 25px;
+        margin: 7px 0;
+    }
+    .service-category-img {
+        height: 130px;
+    }
+    
+    .service-category-box p {
+        font-size: 13px;
+    }
+}
+@media only screen and (max-width: 1198px) {
+
+    .theme-btn2 {
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .hero-area4 .main-heading {
+        padding-top: 10px;
+    }
+    .video-area .reveal {
+        height: 526px;
+    }
+    .video-section .heading1-w h2 {
+        font-size: 40px;
+    }
+    .heading1-w .top-sub-heading {
+        font-size: 16px;
+    }
+    .mission-img2 {
+        height: 500px;
+    }
+    .mission-img1 {
+        height: 215px;
+    }
+    .mission .mission-box .title {
+        font-size: 21px;
+    }
+    .img-position {
+        height: 298px;
+    }
+    .service-right-box {
+        height: 620px;
+    }
+    .bottom-mission-heading h2 {
+        width: 600px;
+        margin-bottom: 20px;
+    }
+    .service3 .service3-box {
+        min-height: 298px;
+    }
+    .heading1 .heading1-sub {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .theam-testimonial-img {
+        height: 450px;
+    }
+    .work-second-box {
+        margin-top: 110px;
+    }
+    .work-desc-img {
+        height: 530px;
+    }
+    .page-banner .main-heading h1 {
+        font-size: 55px;
+    }
+    .page-banner .main-heading p {
+        font-size: 16px;
+    }
+    .img-position5 {
+        height: 390px;
+    }
+    .workservice .heading3 h4 a {
+        font-size: 42px;
+       
+    }
+    .why-choose-counter-item {
+        padding: 20px 5px;
+    }
+    .service-category-img {
+        height: 142px;
+    }
+    .heading1.about-team-text p {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 54px;
+    }
+}
+@media only screen and (max-width: 1080px) {
+
+
+    
+}
+@media only screen and (max-width: 1024px) {
+
+    .work-desc-img {
+        height: 551px;
+    }
+    
+}
+@media only screen and (max-width: 991px) {
+
+.mobile-logo{
+    height: 65px;
+    }
+    .mobile-logo img{
+        height: 100%;
+        width: auto;
+        margin: 8px 0;
+    }
+    .mobile-nav-icon {
+        width: 38px;
+        height: 38px;
+        color: #ffffff;
+    }
+    .heading1 h2 {
+        font-size: 32px;
+        line-height: 40px;
+      }
+      .hero-area4 .main-heading h1 {
+          font-size: 50px;
+          line-height: 60px;
+      }
+      .hero-area4 .main-heading p {
+          font-size: 14px;
+          margin-bottom: 23px;
+      }
+      .heading1-w h2 {
+          font-size: 32px;
+          line-height: 32px;
+      }
+      .heading1-w .bottom-sub-heading {
+          font-size: 14px;
+          font-weight: 600;
+      }
+      .video-section .heading1-w h2 {
+          font-size: 36px;
+      }
+      .sp {
+          padding: 45px 0px;
+      }
+      .our-client.sp {
+          padding-top: 30px;
+    }
+    .video-area .reveal {
+      height: 392px;
+  }
+  .mission .heading1-w h2 {
+    font-size: 26px;
+    line-height: 36px;
+    font-weight: 400;
+}
+.mission-content {
+    margin-top: 15px;
+}
+.video-area .reveal {
+    height: 465px;
+}                                                                   
+.container {
+    max-width: 850px;
+}
+.mission-img1 {
+    height: 185px;
+}
+.mission .mission-box .title {
+    font-size: 20px;
+}
+.mission .mission-box .title {
+    padding: 8px 20px 10px 20px;
+}
+.pricing-table table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-top: 15px;
+}
+.pricing-section .heading1 .top-sub-heading {
+    color: #fff;
+    font-size: 26px;
+    margin-bottom: 6px;
+}
+.pricing-section .heading1 h2 {
+    font-size: 36px;
+}
+.hide-box{
+    display: none;
+}
+.show-box{
+    display: block;
+}
+.service3 .service3-box {
+    min-height: 332px;
+}
+.service-right-box {
+    height: 694px;
+}
+.work-desc-content {
+    padding-left: 75px;
+    padding-bottom: 80px;
+}
+.work-desc-content {
+    padding-left: 73px;
+    padding-bottom: 45px;
+    padding-right: 30px;
+}
+.work-desc-content2 {
+    padding-right: 73px;
+    padding-bottom: 45px;
+    padding-left: 30px;
+}
+.work-second-box {
+    padding-right: 0px;
+    margin-top: 150px;
+    margin-bottom: 25px;
+}
+.footer-heading .heading1 h2 {
+    font-size: 50px;
+    line-height: 58px;
+}   
+.mission-img2 {
+    height: 438px;
+}
+.mobile-header.mobile-header-main {
+    padding: 2px 0;
+}
+.mobile-nav-icon {
+    width: 30px;
+    height: 30px;
+    color: #ffffff;
+    font-size: 18px;
+}
+.work-desc-img {
+    height: 495px;
+}
+.mobile-header-main.sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    transform: translate3d(0, 0, 0);
+    z-index: 111;
+    animation-name: fade-in-down;
+    animation-duration: 1s;
+    animation-fill-mode: forwards;
+    background-color: var(--secondary-color);
+    box-shadow: rgb(0 0 0 / 7%) 0px 20px 30px;
+    transition: all 0.3s ease-in-out;
+    z-index: 999;
+}
+.mobile-sidebar {
+    background: #053122 !important;
+}
+.mobile-nav li a {
+    font-size: 16px;
+    color: #fff;
+    font-weight: 300;
+    padding: 8px 0;
+}
+.mobile-sidebar .logo-m {
+    margin-top: -40px;
+    margin-bottom: 15px;
+}
+.mobile-sidebar .logo-m img{
+    height: 65px;
+}
+.menu-close {
+    color: #fff;
+}
+.mobile-sidebar.mobile-menu-active {
+    padding-top: 46px;
+}
+.workservice .heading3 h4 a {
+    font-size: 40px;
+}
+.img-position5 {
+    height: 345px;
+}
+.dark-bg .mobile-nav-icon {
+    color: var(--secondary-color);
+}
+
+.why-choose-counter-item {
+    padding:20px 5px;
+}
+
+.why-choose-counter-item-border{
+    border: none !important;
+}
+.why-choose-counter-content.srevice-counter h4 {
+    font-size: 18px;
+}
+.service-category-img {
+    height: 120px;
+}
+
+
+.pricing-flexi-box1{
+    margin-top: 30px;
+    height: 500px;
+}
+.pricing-service3-box{
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.mission-box1, .mission-box2, .mission-box4{
+    height:300px;
+}
+.mission-box3{
+    background-color: var(--secondary-color) !important;
+}
+.mission-box3 .heading1 h5 a{
+    color: #fff !important;
+}
+.mission-box3 .heading1 p{
+    color: #fff !important;
+}
+.mission-box4 .heading1 h5 a{
+    color: #000 !important;
+}
+.mission-box4 .heading1 p{
+    color: #000 !important;
+}
+.mission-box4{
+    background-color: #0dbb5e !important;
+
+}
+
+
+}
+
+@media only screen and (max-width: 768px) {
+    .container {
+        max-width: 720px;
+    }
+    .logo-slider3 {
+        margin-top: 2px;
+        position: relative;
+    }
+    .video-area .reveal iframe , .video-area .reveal{
+        height: 391px;
+    }
+    .mission .mission-box .title {
+        font-size: 17px;
+    }
+    .mission .mission-box .title {
+        padding: 8px 6px 10px 6px;
+    }   
+    .mission-img2 {
+        height: 345px;
+    }
+    .heading1 p {
+        font-size: 22px;
+        line-height: 28px;
+        margin-bottom: 12px;
+    }
+  
+    .show-box{
+        display: block !important;
+      }
+      
+      
+      .hide-box{
+        display: none !important;
+    }
+    .img-position4{
+        background-color: #011c1f !important;
+         /* background-image: url('../img/provenexpertise.png'); */
+         background-image: none ;
+        background-position: bottom;
+        background-size:cover;
+        height:100%;
+        height:332px;
+      }
+      .bottom-mission-box {
+        margin-bottom: 22px;
+    }
+
+    .theam-testimonial-img {
+        height: 375px;
+        width: 315px;
+        margin-bottom: 25px;
+    }
+    .theam-testimonial{
+        padding-bottom: 100px;
+    }
+
+    .next-next-arrow, .prev-prev-arrow {
+        right: auto;
+        bottom: -70px;
+    }
+    .next-next-arrow {
+        top: auto;
+        right: 43%;transform: rotate(90deg);
+    }
+    .prev-prev-arrow  {
+        
+        left: 43%;
+        
+        transform: rotate(90deg);
+    }
+    .box-order1{
+        order: 1;
+    }
+    .box-order2{
+        order: 2;
+    }
+    .work-desc-img img {
+        height: 330px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .footer-content {
+        padding: 0px 0;
+    }
+    .copyright-area {
+        margin-top: 25px;
+    }
+    .testimonial-writer-name {
+        letter-spacing: 1px;
+    }
+    .work-desc-content {
+        padding-left: 48px;
+        padding-bottom: 45px;
+        padding-right: 48px;
+    }
+    .work-second-box {
+        margin-top: 110px;
+    }
+    .work-desc-img {
+        height: auto;
+    }
+    .portfolio .portfolio-filters li {
+        font-size: 27px;
+        padding: 5px 14px;
+    }
+    .page-banner .main-heading h1 {
+        font-size: 50px;
+    }
+    .page-banner .main-heading p {
+        max-width: auto;
+    }
+    .portfolio .portfolio-card .portfolio-content .category {
+        font-size: 25px;
+    }
+    .portfolio .portfolio-card .portfolio-content h3 {
+        font-size: 15px;
+    }
+    
+    .img-position5 .workservice-dec {
+        margin-top: 26px;
+    }
+    .workservice .heading3 h4 a {
+        font-size: 38px;
+    }
+    .service-main-section .srevice-counter h3 {
+        font-size: 40px;
+    }
+    .why-choose-counter-item .row>*{
+        padding:0 5px; 
+    }
+    .why-choose-counter-content.srevice-counter h4 {
+        font-size: 16px;
+    }
+    .service-category-box h3 {
+        font-size: 22px;
+        margin: 7px 0;
+    }
+
+    .service-category-img {
+        height: 140px;
+    }
+    .at-text-slider-title{
+        font-size: 30px;
+    }
+    .text-slider-work .at-text-slider-item, .text-slider-work .at-text-item{
+        padding: 8px 16px;
+    }
+    .pricing-service3-box.service3-box {
+        min-height: 280px;
+    }
+}
+
+
+
+@media only screen and (max-width: 576px) {
+
+    .bottom-mission-heading h2 {
+        width: auto;    
+        line-height: 40px;
+    }
+    .hero-area4 .main-heading h1 {
+        font-size: 45px;
+        line-height: 55px;
+    } 
+    .heading1-w h2 {
+        font-size: 29px;
+        line-height: 29px;
+    }  
+    .video-section .heading1-w h2 {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .logo-slider3::before{
+       
+        background: linear-gradient(90deg, rgba(255,255,255,1) 10%, rgba(255,255,255,0) 40%);
+       
+    }
+    .logo-slider3::after{
+       
+        background: linear-gradient(90deg, rgba(255,255,255,0) 40%, rgba(255,255,255,1) 100%);
+       
+    }
+    .heading1-w .top-sub-heading {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .video-section .heading1-w .bottom-sub-heading {
+        line-height: 19px;
+    }
+    .heading1-w .bottom-sub-heading {
+        line-height: 19px;
+    }
+    .video-area .reveal iframe, .video-area .reveal {
+        height: 310px;
+    }
+    .mission .heading1-w .top-sub-heading {
+        font-size: 15px;
+    }
+    .mission .heading1-w h2 {
+        font-size: 22px;
+        line-height: 30px;
+    }
+    .mission-img1 {
+        height: 240px;
+    }
+    .pricing-section .heading1 .top-sub-heading {
+        font-size: 22px;
+    }
+    .pricing-section .heading1 h2 {
+        font-size: 28px;
+        line-height: 35px;
+    }
+    .pricing-table tr td p {
+        display: none;
+    }
+    .pricing-table tr td h5 {
+        font-size: 16px;
+    }
+    .service3 .service3-box {
+        min-height: 370px;
+    }
+    .img-position4 {
+        background-color: #011c1f !important;
+         background-image: url(../img/provenexpertise.png);
+        background-position: bottom;
+        background-size: cover;
+        height: 100%;
+        height:600px;
+    }
+    .pricing-table.table-wrapper {
+        margin-top: 0px;
+    }
+    .heading3 p {       
+        max-width: 100%;
+    }
+    .bottom-mission-box {
+        margin-bottom: 36px;
+    }
+    .sp.bottom-mission{
+        padding-bottom: 20px;
+    }
+    .theam-testimonial-img {
+        height: 330px;
+        width: 290px;
+    }
+    .next-next-arrow {
+        right: 40%;
+    }
+    .prev-prev-arrow {
+        left: 40%;
+    }
+    .testimonial-comment {
+        font-size: 18px;
+    }
+    .testimonial-writer-name {
+        letter-spacing: 1px;
+    }
+    .work-second-box {
+        padding-right: 0px;
+        margin-top: 110px;
+        margin-bottom: 25px;
+    }
+    .work-desc-content2 {
+        padding-right: 30px;
+        padding-left: 30px;
+    }
+    .work-desc-content {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .footer-heading .heading1 h2 {
+        font-size: 46px;
+        line-height: 55px;
+    }
+    .footer-heading .heading1 h2 sup {
+        font-size: 20px;
+    }
+    .footer-content .col-12 .col-12  {
+        flex: 0 0 auto;
+        width: 50%;
+    }
+    .footer-content .menu-list{
+        margin-bottom: 25px;
+    }
+    .footer1 .single-footer-items h3 {
+        margin-top: 0px;
+        padding-top: 24px;
+    }
+
+    .footer-logo-area {
+        text-align: left;
+        margin-top: 20px;
+    }
+    .heading1 .heading1-sub {
+        font-size: 15px;
+        line-height: 22px;
+        padding-left: 00px;
+        text-align: left;
+        margin: 10px 0; 
+    }
+    .copyright-area {
+        margin-top: 0px;
+    }
+    .work-desc-content .main-heading {
+        font-size: 32px;
+        line-height: 38px;
+    }
+    .work-second-box {
+        padding-right: 0px;
+        margin-top: 100px;
+        margin-bottom: 25px;
+    }
+    .bottom-mission-box {
+        color: var(--secondary-color);
+        padding: 0px 0px;
+    }
+  
+    .mobile-logo {
+        height: 65px;
+    }
+    .pricing-table tbody tr td:first-child {
+        padding-left: 18px;
+    }
+    .pricing-table td {
+        padding: 12px 8px;
+    }
+    .pricing-table tbody tr td:first-child {
+        min-width: 180px;
+        background-color: var(--secondary-color);
+    }
+    .pricing-table td svg {
+        height: 20px;
+        width: 20px;
+    }
+    .pricing-section {
+        background: none;
+        
+        background-color: var(--secondary-color);
+    }
+    .pricing-table tbody tr:first-child td {
+        background-color: #1DBF73;
+        color: #013912;
+    }
+    .pricing-logo img {
+        height: 32px;
+        width: auto;
+    }
+    .pricing-table::-webkit-scrollbar {
+        display: none;
+      }
+      
+      /* Hide scrollbar for IE, Edge and Firefox */
+      .pricing-table {
+        -ms-overflow-style: none;  /* IE and Edge */
+        scrollbar-width: none;  /* Firefox */
+      }
+      .pricing-table thead tr th:first-child {
+       background-color: var(--secondary-color) !important;
+       z-index: 99;
+    }
+    .portfolio .portfolio-filters li {
+        font-size: 25px;
+        padding: 5px 6px;
+    }
+    .page-banner .main-heading h1 {
+        font-size: 40px;
+    }
+    .workservice .heading3 h4 a {
+        font-size: 34px;
+    }
+    .img-position5 .workservice-dec {
+        max-width: auto;
+        font-size: 16px;
+    }
+    .service3 .service3-box.img-position5 {
+        min-height: auto;
+    }
+    .img-position5 {
+        height: 317px;
+    }
+    .why-choose-counter-item{
+        border: none;
+    }
+    .why-choose-counter-content.srevice-counter h4 {
+        font-size: 18px;
+    }
+    .why-choose-counter-item {
+        padding: 14px 5px;
+    }
+    .why-choose-counter-content.srevice-counter h3 {
+        display: flex;
+    }
+    .service-category-img {
+        height: 300px;
+    }
+    .pricing-service3-box.service3-box{
+        min-height: 240px;
+    }
+    .pricing-flexi-box h2 {
+        font-size: 37px;
+        margin-bottom: 17px;
+    }
+
+    .plans-row {
+        margin-top: 18px;
+    }
+    .pricing-flexi-box {
+        border-radius: 10px;
+        padding: 40px;
+    }
+    .pricing-flexi-box1 {
+        margin-top: 30px;
+        height: 420px;
+    }
+    .at-text-slider-title{
+        font-size: 26px;
+    }
+    .text-slider-work .at-text-slider-item, .text-slider-work .at-text-item {
+        padding: 4px 10px;
+    }
+    .plans-box {
+        padding: 5px 8px 6px 8px;
+    }
+    .heading1.about-team-text p {
+        font-size: 13px;
+        margin-top: 16px;
+    }
+    .about-team-text.heading1 h5 a {
+        font-size: 18px;
+    }
+    .site-logo img, .mobile-logo img {
+        max-height: 45px;
+    }
+    .mobile-logo {
+        height: 58px;
+    }
+
+}
+@media only screen and (max-width: 480px) {
+
+    .hero-area4 .main-heading h1 {
+        font-size: 45px;
+        line-height: 52px;
+    }
+    .homebanner {
+        padding: 100px 0 30px 0;
+    }
+    .video-section .heading1-w h2 {
+        font-size: 29px;
+        line-height: 36px;
+    }
+    .heading1-w h2 {
+        font-size: 29px;
+        line-height: 35px;
+    }
+    .video-area .reveal iframe, .video-area .reveal {
+        height: 256px;
+    }
+    .mission-img2 {
+        height: 240px;
+    }
+    .service3 .service3-box {
+        min-height: 340px;
+    }
+    .work-desc-img img {
+        height: 350px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .work-second-box {
+        padding-right: 0px;
+        margin-top: 68px;
+        margin-bottom: 25px;
+    }
+    .work-desc-img img {
+        height: 300px;
+        width: 100%;
+        object-fit: cover;
+    }
+    .work-desc-content2 {
+        padding-right: 10px;
+        padding-left: 10px;
+    }
+    .work-desc-content {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .container-fluid {
+         padding-right: calc(var(--bs-gutter-x) * .5);
+         padding-left: calc(var(--bs-gutter-x) * .5); 
+    }
+  
+    .next-next-arrow {
+        right: 38%;
+    }
+    .prev-prev-arrow {
+        left: 38%;
+    }
+    .portfolio .portfolio-filters li {
+        font-size: 22px;
+        padding: 5px 2px;
+    }
+    .portfolio .portfolio-card .portfolio-content .category {
+        font-size: 22px;
+    }
+    .workservice .heading3 h4 a {
+        font-size: 30px;
+    }
+    .img-position5 p.service-name {
+        font-size: 15px;
+        margin: 16px 0px;
+
+    
+    }
+    
+    .img-position5 .workservice-dec {
+        margin-top: 20px;
+    }
+    .img-position5 .buttons {
+        margin-top: 20px;
+    }
+    .img-position5 .workservice-dec {
+        max-width: auto;
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .service-category-img {
+        height: 250px;
+    }
+    .bottom-mission-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .bottom-mission-box .heading1{
+        text-align: center;
+    }
+    .pricing-service3-box.service3-box {
+        min-height: 220px;
+    }
+    .pricing-service3-box .heading3 {
+        max-width: 163px;
+    }
+    .pricing-flexi-box1 {
+        margin-top: 30px;
+        height: 480px;
+    }
+    .pricing-flexi-box2 .main-dec {
+        margin-bottom: 0;
+        font-size: 18px;
+    }
+    .pricing-flexi-box1 .main-dec {
+        font-size: 18px;
+    }
+    .about-team-box .col-7{
+        width: 100%;
+    }
+    .about-team-box .col-5{
+        width: 100%;
+    }
+    .about-team-box-img img{
+        height: 200px ;
+        width: auto;
+    }
+    .mission-box1, .mission-box2, .mission-box4 {
+        height: 450px;
+    }
+}
+@media only screen and (max-width: 450px) {
+
+.hero-area4 .main-heading h1 {
+    font-size: 38px;
+    line-height: 46px;
+}   
+.heading1-w h2 {
+    font-size: 25px;
+    line-height: 30px;
+}       
+.video-section .heading1-w h2 {
+    font-size: 25px;
+    line-height: 32px;
+}   
+.video-area .reveal iframe, .video-area .reveal {
+    height: 230px;
+}
+.pricing-section .heading1 h2 {
+    font-size: 26px;
+    line-height: 34px;
+}   
+.pricing-section .heading1 .top-sub-heading {
+    font-size: 20px;
+}
+.heading1 p br{
+    display: none;
+}
+.service3 .service3-box {
+    min-height: 315px;
+}
+.footer-heading .heading1 h2 {
+    font-size: 40px;
+    line-height: 48px;
+}
+.footer-heading .heading1 h2 sup {
+    font-size: 18px;
+}   
+.img-position4 {
+    height: 762px;
+}
+.portfolio .portfolio-filters li {
+    margin-bottom: 0px;
+    padding:0 3px;
+}
+.portfolio .portfolio-filters{
+    gap: 5px 18px;
+    justify-content: start;
+    font-weight: 700;
+}
+.page-banner .main-heading p {
+    font-size: 15px;
+}
+.page-banner .main-heading h1 {
+    font-size: 38px;
+}
+.pricing-service3-box.service3-box {
+    min-height: 220px;
+}
+.pricing-flexi-box {
+    border-radius: 10px;
+    padding: 30px;
+}
+
+.pricing-flexi-box h2 {
+    font-size: 32px;
+    margin-bottom: 17px;
+}
+    
+}
+@media only screen and (max-width: 380px) {
+
+    .video-area .reveal iframe, .video-area .reveal {
+        height: 201px;
+    }
+    .service3 .service3-box {
+        min-height: 290px;
+    }
+    .video-section .heading1-w h2 {
+        font-size: 21px;
+        line-height: 28px;
+    }
+    .heading1-w h2 {
+        font-size: 21px;
+        line-height: 30px;
+    }
+    .heading1-w .top-sub-heading {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .next-next-arrow {
+        right: 36%;
+    }
+    .prev-prev-arrow {
+        left: 36%;
+    }
+    .img-position4 {
+        height: 690px;
+    }
+    .portfolio .portfolio-card .portfolio-image {
+        height: 260px;
+    }
+    .workservice .heading3 h4 a {
+        font-size: 27px;
+    }
+    .why-choose-counter-content.srevice-counter h4 {
+        font-size: 16px;
+    }
+    .pricing-service3-box.service3-box {
+        min-height: 200px;
+    }
+    .about-team-box-img img {
+        height: 170px;
+        width: auto;
+    }
+    
+}
+@media only screen and (max-width: 320px) {
+
+
+    
+}
+
+
