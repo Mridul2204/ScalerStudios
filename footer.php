@@ -211,7 +211,7 @@
 <script>
    // Initialize EmailJS
    (function() {
-      emailjs.init("pJzbPprarSYSY1Aup");
+      emailjs.init("on_OBZJCQ7H8z8_K7");
    })();
 
    // Initialize the Supabase client
@@ -340,7 +340,7 @@ Submitted At: ${userData.created_at}
            `
        };
        
-       emailjs.send('service_y3bml3i', 'template_q7kovjm', templateParams)
+       emailjs.send('service_tg4pusf', 'template_pbbsbfl', templateParams)
            .then(function(response) {
                console.log('Email sent successfully:', response);
            }, function(error) {
