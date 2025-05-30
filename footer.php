@@ -215,8 +215,8 @@
    })();
 
    // Initialize the Supabase client
-   const supabaseUrl = 'https://csnsvhlsvjeastyidgqh.supabase.co';
-   const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImNzbnN2aGxzdmplYXN0eWlkZ3FoIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg2MDY4NTUsImV4cCI6MjA2NDE4Mjg1NX0.MfIYPpTzzyVB6wPTMUgCM4DyFQgbitAoPIIFgUDWd0k';
+   const supabaseUrl = 'https://qyidhbeijwtzvhybnshr.supabase.co';
+   const supabaseKey = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InF5aWRoYmVpand0enZoeWJuc2hyIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDg2MjQxODUsImV4cCI6MjA2NDIwMDE4NX0.H-LPQuxN8Wd5QZ2Tyg7tv6nDYjcX5hZnGsJ-DOsHlPw';
    const supabaseClient = supabase.createClient(supabaseUrl, supabaseKey);
 
    const modal = document.getElementById('popupModal');
