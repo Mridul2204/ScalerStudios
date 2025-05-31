@@ -848,10 +848,10 @@
                <div class="row">
                   <div class="col-lg-5 col-md-6 ">
                      <div class="theam-testimonial-img">
-                    
-                        <video  autoplay muted loop playsinline>
+                     <iframe src="https://cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fyoutube.com%2Fshorts%2FPkjJjCmQ8jk%3Fsi%3D9gbcZfnZTWmWVvsz&key=925108d922be940af814f71907a7df4b" style="top: 0; left: 0; width: 100%; height: 100%; position: absolute; border: 0;" allowfullscreen scrolling="no" allow="accelerometer *; clipboard-write *; encrypted-media *; gyroscope *; picture-in-picture *; web-share *;"></iframe>
+                       <!-- <video  autoplay muted loop playsinline>
                            <source src="img/testi1.mov" type="video/mp4">
-                        </video>
+                        </video>-->
                      </div> 
                    
                   </div>
