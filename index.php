@@ -859,7 +859,7 @@
                      <div class="testimonial-content">
                         <div class="">
                            <p class="testimonial-comment">
-                              " I am beyond happy with the work. Your designers routinely save the day! "
+                              "fgf I am beyond happy with the work. Your designers routinely save the day! "
                            </p>
                            <p class="testimonial-writer-name">
                               Justin Rands, Director of Brand at Oyster
