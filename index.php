@@ -836,6 +836,7 @@
       </div>
    </div>
 </div>
+
 <div class="sp theam-testimonial">
    <div class="container">
       <div class="theam-testimonial-slider">
@@ -849,9 +850,17 @@
                   <div class="col-lg-5 col-md-6 ">
                      <div class="theam-testimonial-img">
                     
-                     <video  autoplay muted loop playsinline>
-                           <source src="img/testi1.mov" type="video/mp4">
-                        </video>
+
+                           <iframe
+                           width="auto"
+                           height="100%"
+                           src="https://www.youtube.com/embed/o3JAJNWpSHQ?enablejsapi=1&controls=0&enablejsapi=1&mute=1playsinline=1&autoplay=1"
+                              frameborder="0"
+                              allow="autoplay; encrypted-media"
+                              allowfullscreen
+                              playsinline>
+                           </iframe>
+                       
                      </div> 
                    
                   </div>
@@ -873,10 +882,17 @@
                <div class="row">
                   <div class="col-lg-5 col-md-6">
                      <div class="theam-testimonial-img">
-                     <video autoplay muted loop playsinline>
-                           <source src="img/testi2.mp4" type="video/mp4">
-                        </video>
-                     </div>
+
+                     <iframe 
+                     width="auto" 
+                        height="100%" 
+                       src="https://www.youtube.com/embed/PkjJjCmQ8jk?enablejsapi=1&controls=0&enablejsapi=1&mute=1playsinline=1&autoplay=1"
+                        frameborder="0"
+                        allow="autoplay; encrypted-media"
+                        allowfullscreen
+                        playsinline></iframe>
+                   
+                     </div> 
                   </div>
                   <div class="col-lg-7 col-md-6">
                      <div class="testimonial-content">
@@ -896,9 +912,17 @@
                <div class="row">
                   <div class="col-lg-5 col-md-6">
                      <div class="theam-testimonial-img">
-                     <video autoplay muted loop playsinline>
-                        <source src="img/testi3.mp4" type="video/mp4">
-                     </video>
+
+                     <iframe 
+                     width="auto" 
+                        height="100%" 
+                       src="https://www.youtube.com/embed/lGRAKjpkdh4?enablejsapi=1&controls=0&enablejsapi=1&mute=1playsinline=1&autoplay=1"
+                        frameborder="0"
+                        allow="autoplay; encrypted-media"
+                        allowfullscreen
+                        playsinline></iframe>
+
+                   
                      </div>
                   </div>
                   <div class="col-lg-7 col-md-6">
@@ -976,4 +1000,115 @@
 </div>
 <?php include 'footer.php';?>
 
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+
+<script src="https://www.youtube.com/iframe_api"></script>
+
+ <script>
+  let players = [];
+  let isPlayerReady = [];
+  let sliderInitialized = false;
+
+  function isInViewport(element) {
+    const rect = element.getBoundingClientRect();
+    return (
+      rect.top >= 0 &&
+      rect.left >= 0 &&
+      rect.bottom <= (window.innerHeight || document.documentElement.clientHeight) &&
+      rect.right <= (window.innerWidth || document.documentElement.clientWidth)
+    );
+  }
+
+  function playVideoInActiveSlide() {
+    const activeIframe = document.querySelector('.theam-testimonial-slider .slick-current.slick-active iframe');
+
+    players.forEach((player, i) => {
+      if (!player || !isPlayerReady[i]) return;
+
+      const iframe = player.getIframe();
+
+      if (iframe === activeIframe && isInViewport(iframe)) {
+        player.unMute(); // Unmute only if visible
+        player.playVideo();
+      } else {
+        player.mute();  // Mute and pause others
+        player.pauseVideo();
+      }
+    });
+  }
+
+  function checkAndPlayFirstVideo() {
+    if (sliderInitialized && isPlayerReady.includes(true)) {
+      setTimeout(playVideoInActiveSlide, 700);
+    }
+  }
+
+  function onYouTubeIframeAPIReady() {
+    document.querySelectorAll('.theam-testimonial-slider iframe').forEach((iframe, index) => {
+      players[index] = new YT.Player(iframe, {
+        playerVars: {
+          autoplay: 0,
+          controls: 0,
+          mute: 1,
+          enablejsapi: 1,
+          modestbranding: 1,
+          rel: 0,
+          playsinline: 1
+        },
+        events: {
+          onReady: (event) => {
+            isPlayerReady[index] = true;
+
+            if (index === 0) {
+              setTimeout(() => {
+                event.target.mute();
+                event.target.playVideo();
+              }, 1000);
+            }
+
+            checkAndPlayFirstVideo();
+          }
+        }
+      });
+    });
+  }
+
+  $(document).ready(function () {
+    const $slider = $(".theam-testimonial-slider .silder");
+
+    $slider.slick({
+      infinite: true,
+      speed: 300,
+      autoplaySpeed: 60000,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: true,
+      arrows: true,
+      prevArrow: "<button type='button' class='prev-prev-arrow pull-left'><i class='fa fa-angle-left'></i></button>",
+      nextArrow: "<button type='button' class='next-next-arrow pull-right'><i class='fa fa-angle-right'></i></button>"
+    });
+
+    $slider.on('afterChange', function () {
+      setTimeout(playVideoInActiveSlide, 300);
+    });
+
+    sliderInitialized = true;
+    checkAndPlayFirstVideo();
+  });
+
+  document.addEventListener("visibilitychange", function () {
+    if (document.visibilityState === "visible") {
+      playVideoInActiveSlide();
+    }
+  });
+
+  window.addEventListener('scroll', () => {
+    playVideoInActiveSlide();
+  });
+
+  window.addEventListener('load', function () {
+    setTimeout(playVideoInActiveSlide, 1000);
+  });
+</script>
 
