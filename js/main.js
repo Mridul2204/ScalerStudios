@@ -988,7 +988,7 @@
   
 
   
-  $(".theam-testimonial-slider .silder").slick({
+  /* $(".theam-testimonial-slider .silder").slick({
     infinite: true,
   speed: 300,
   slidesToShow: 1,
@@ -998,7 +998,7 @@
   arrows: true,
 	prevArrow:"<button type='button' class='prev-prev-arrow pull-left '><i class='fa fa-angle-down' aria-hidden='true'></i></button>",
 	nextArrow:"<button type='button' class='next-next-arrow pull-right'><i class='fa fa-angle-up' aria-hidden='true'></i></button>",
-  });
+  }); */
   
   
 
