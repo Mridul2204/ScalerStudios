@@ -250,7 +250,7 @@
                               <li><a href="about-us.php">About Us</a></li>
                               <!-- <li class="dropdown-menu-parrent"><a href="portfolio.php" class="main1"> Portfolio </a>
                               </li> -->
-                              <!-- <li class="dropdown-menu-parrent"><a href="enterprise.php" class="main1" >Enterprise </a></li> -->
+                              <li class="dropdown-menu-parrent"><a href="enterprise.php" class="main1" >Enterprise </a></li>
                               
                            </ul>
                         </div>
