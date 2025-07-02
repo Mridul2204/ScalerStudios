@@ -15,6 +15,12 @@
     .service-main-section .srevice-counter h4 .italic-font {
         font-size: 22px;
     }
+    .enterprises-service-heading {
+        font-size: 52px;
+    }
+    .enterprises-service-heading .italic-font {
+        font-size: 70px;
+    }
     
 }
 
@@ -87,6 +93,47 @@
     line-height: 20px;
     margin-top: 125px;
 }
+
+.nterprises-service-box {
+    padding: 6px 15px;
+    font-size: 19px;
+}
+.enterprises-service-heading .italic-font {
+    font-size: 63px;
+}
+.enterprises-service {
+    padding: 50px 0;
+}
+.enterprises-clint.our-client h2 .italic-font {
+    font-size: 40px;
+    line-height: 40px;
+}
+.enterprises-clint.our-client h2 {
+    font-weight: 600;
+    font-size: 16px;
+
+}
+.lending-about-section .lending-about h2 {
+    font-size: 36px;
+}
+.work-second-box.lending-first-p {
+    font-size: 18px;
+}
+.lending-about-section h4 {
+    font-size: 27px;
+    margin-bottom: 8px;
+}
+.lending-about-section .work-desc-img {
+    max-height: 510px;
+}
+.work-desc .choose1-heading .icon-list {
+    margin-top: 15px;
+}
+.lending-process .left h2 {
+    font-size: 58px;
+   
+}
+
 }
 
 @media only screen and (max-width: 1366px) {
@@ -320,7 +367,40 @@ line-height: var(--f-fs-font-fs40);
         line-height: 20px;
         margin-top: 110px;
     }
+    .enterprises-service-heading .italic-font {
+        font-size: 60px;
+    }
+    .nterprises-service-box {
+    padding: 6px 15px;
+    font-size: 17px;
+}
 
+.enterprises-service-heading {
+    font-size: 46px;
+}
+.lending-page.page-banner .main-heading h1 {
+    font-size: 55px;
+}
+.enterprises-service {
+    padding: 49px 0;
+}
+.page-banner .main-heading {
+    padding-top: 75px;
+}
+
+.lending-process .left h2 {
+    font-size: 52px;
+   
+}
+.lending-process .step {
+    margin-bottom: 60px;
+}
+.lending-process .step h3 {
+    font-size: 22px;
+}
+.lending-process .step p {
+    font-size: 16px;
+}
 }
 
 
@@ -449,6 +529,7 @@ line-height: var(--f-fs-font-fs40);
     .service-category-box p {
         font-size: 13px;
     }
+   
 }
 @media only screen and (max-width: 1198px) {
 
@@ -527,10 +608,37 @@ line-height: var(--f-fs-font-fs40);
         line-height: 20px;
         margin-top: 54px;
     }
+    .lending-page.page-banner .main-heading h1 {
+        font-size: 50px;
+    }
 }
 @media only screen and (max-width: 1080px) {
 
-
+    .page-banner .main-heading {
+        padding-bottom: 0px;
+    }
+    .nterprises-service-box {
+        margin: 8px 9px;
+    }
+    .enterprises-service-heading {
+        font-size: 42px;
+    }
+    .enterprises-service-heading .italic-font {
+        font-size: 55px;
+    }
+    .lending-process .left h2 {
+        font-size: 38px;
+    }
+    .lending-process .left p {
+        font-size: 14px;
+    }
+    .lending-process .step p {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .lending-process .step {
+        margin-bottom: 48px;
+    }
     
 }
 @media only screen and (max-width: 1024px) {
@@ -538,7 +646,12 @@ line-height: var(--f-fs-font-fs40);
     .work-desc-img {
         height: 551px;
     }
-    
+    .lending-process .left p {
+        margin-bottom: 3px;
+        font-size: 14px;
+        color: var(--text-muted);
+    }
+  
 }
 @media only screen and (max-width: 991px) {
 
@@ -582,7 +695,7 @@ line-height: var(--f-fs-font-fs40);
           padding: 45px 0px;
       }
       .our-client.sp {
-          padding-top: 30px;
+          padding-top: 45px;
     }
     .video-area .reveal {
       height: 392px;
@@ -769,7 +882,59 @@ line-height: var(--f-fs-font-fs40);
 
 }
 
+.lending-about-box-1{
+    padding:40px 0 ;
+}
+.lending-about-box-2{
+    padding: 0 0 40px  0;
+}
+.lending-about-box-order-1{
+    order: 1;
+}
+.lending-about-box-order-2{
+    order: 2;
+}
+.lending-process .step p {
+    font-size: 14px;
+    line-height: 21px;
+}
+.lending-process .step h3 {
+    font-size: 20px;
+}
+.lending-process .step {
+    margin-bottom: 40px;
+}
+.lending-process .step::before {
+    left: calc(-1 * var(--circle) - 12px);
+    width: 40px;
+    height: 40px;
+    font-size: 18px;
+    line-height: calc(var(--circle) - 10px);
+}
 
+.lending-process .progress-line {
+   
+    top: 0;
+   
+}
+
+.lending-process .step {
+    padding-left: 10px;
+}
+.page-banner .main-heading {
+    padding-bottom: 44px;
+}
+.enterprises-service {
+    padding: 45px 0;
+}
+.enterprises-clint.our-client h2 {
+    font-weight: 600;
+    font-size: 14px;
+}
+.enterprises-clint.our-client h2 .italic-font {
+    font-size: 36px;
+    line-height: 40px;
+}
 }
 
 @media only screen and (max-width: 768px) {
@@ -922,6 +1087,74 @@ line-height: var(--f-fs-font-fs40);
     .pricing-service3-box.service3-box {
         min-height: 280px;
     }
+    .lending-heding-box {
+        border-right: none;
+    }
+    .enterprises-service-heading {
+        font-size: 40px;
+        text-align: center;
+        width: 100%;
+        margin-bottom: 25px;
+    }
+    .enterprises-service-heading .italic-font {
+        font-size: 40px;
+    }
+    .enterprises-service-content {
+        padding-left: 0;
+        text-align: center;
+    }
+    .nterprises-service-box {
+        padding: 4px 13px;
+        font-size: 16px;
+        margin: 6px 5px ;
+    }
+    .lending-process .left {
+        margin-bottom: 50px;
+    }
+    .lending-process .step::before {
+        left: calc(-1 * var(--circle) - 3px);
+    }
+    .lending-process .timeline {
+        margin-left: 0;
+        padding-left: 30px;
+        margin-left: 20px;
+    }
+    .lending-process .step {
+        padding-left: 32px;
+    }
+    .lending-page.page-banner .main-heading h1 {
+        font-size: 45px;
+    }
+    .enter-desc .work-second-box {
+        
+        padding-right: 0px;
+        
+    }
+    .lending-about-section  .padding-right {
+        padding-right: 0px;
+    }
+    .bottom-mission-box {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .lending-bottom-mission .heading1{
+        text-align: center;
+    }  
+    .lending-process .left h2 {
+        padding-right: 0px; 
+    } 
+    .lending-about-box-1 {
+        padding:0px 0 40px 0 ;
+    }
+    .lending-about-section2.sp{
+        padding-top: 0;
+    }
+    .lending-footer-logo{
+        text-align: left;
+        padding: 10px 0;
+       }
 }
 
 
@@ -1208,7 +1441,24 @@ line-height: var(--f-fs-font-fs40);
     .mobile-logo {
         height: 58px;
     }
+    .lending-about-section .lending-about h2 {
+        font-size: 32px;
+    }
+    .lending-about-section h4 {
+        font-size: 24px;
+     }
+     .work-second-box.lending-first-p {
+        font-size: 17px;
+    }      
+    .lending-page.page-banner .main-heading h1 {
+        font-size: 42px;
+    }
+    .page-banner .main-heading {
+        padding-bottom: 12px;
+    }    
 
+    .footer-accordian .accordion-summary {
+        font-size: 16px;
 }
 @media only screen and (max-width: 480px) {
 
@@ -1340,6 +1590,25 @@ line-height: var(--f-fs-font-fs40);
     .mission-box1, .mission-box2, .mission-box4 {
         height: 450px;
     }
+    .lending-process .left h2 {
+        font-size: 34px;
+    }
+    .lending-process .step h3 {
+        font-size: 18px;
+    }   
+    .lending-process .step {
+        padding-left: 20px;
+    }
+    .lending-page.page-banner .main-heading h1 {
+        font-size: 38px;
+    }
+    .nterprises-service-box {
+        padding: 2px 10px;
+    }
+
+    .lending-about-section .lending-about h2 {
+        font-size: 30px;
+    }
 }
 @media only screen and (max-width: 450px) {
 
@@ -1408,6 +1677,34 @@ line-height: var(--f-fs-font-fs40);
     font-size: 32px;
     margin-bottom: 17px;
 }
+.page-banner .main-heading {
+    padding-top: 45px;
+}
+.lending-page.page-banner .main-heading h1 {
+    font-size: 36px;
+}
+.enterprises-service-heading .italic-font {
+    font-size: 36px;
+}
+.enterprises-service-heading {
+    font-size: 36px;
+    margin-bottom: 25px;
+}
+.lending-process .step {
+    padding-left: 8px;
+}
+.lending-process .step::before {
+    left: calc(-1 * var(--circle) - 0px);
+    width: 35px;
+    height: 35px;
+    font-size: 18px;
+    line-height: calc(var(--circle) - 16px);
+}
+
+.lending-process .step {
+    margin-bottom: 30px;
+}
+
     
 }
 @media only screen and (max-width: 380px) {
@@ -1454,6 +1751,22 @@ line-height: var(--f-fs-font-fs40);
     .about-team-box-img img {
         height: 170px;
         width: auto;
+    }
+    .lending-process .left h2 {
+        font-size: 30px;
+    }
+    .lending-about-section .lending-about h2 {
+        font-size: 28px;
+    }
+    .enterprises-clint.our-client h2 .italic-font {
+        font-size: 34px;
+        line-height: 34px;
+    }
+    .enterprises-service-heading .italic-font {
+        font-size: 32px;
+    }
+    .lending-page.page-banner .main-heading h1 {
+        font-size: 34px;
     }
     
 }
