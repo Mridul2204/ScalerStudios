@@ -521,7 +521,7 @@
                                 </div>
                             </details>
                         </div>
-                        <div class="accordion-item py-4">
+                        <div class="accordion-item py-4 lending-ac-bd-top">
                             <details>
                                 <summary class="accordion-summary">
                                     Who will we be working with?
