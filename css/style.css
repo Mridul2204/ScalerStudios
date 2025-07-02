@@ -20,6 +20,7 @@ body {
     --font-size16:16px;
     --font-size20:18px;
     --font-size20:20px;
+    --circle: 32px;
   }
 
   h1, h2, h3, h4, h5, h6 {
@@ -1509,7 +1510,7 @@ margin-bottom: 30px;
 }
 
 .theam-testimonial-img{
-  height: 530px;
+  height: 590px;
   width: 100%;
   margin: 0 auto;
   /* background-color: var(--main-color); */
@@ -1590,7 +1591,7 @@ bottom: 40%;
 
 
 
-.work-desc .container-fluid{
+.home-work-desc.work-desc .container-fluid{
   width: 100%;
   padding: 0;
 }
@@ -1632,7 +1633,7 @@ bottom: 40%;
     margin-top: 200px;
     margin-bottom: 30px;
  }
- .work-desc .container-fluid .row>*{
+ .home-work-desc.work-desc .container-fluid .row>*{
   padding: 0;
 }
 
@@ -1950,28 +1951,36 @@ flex-direction: column;
   padding:70px 0;
 }
 .enterprises-service-heading{
-  font-size: 45px;
+  font-size: 60px;
   font-weight: 400;
-  border-right: 1px solid #fff;
+  
   padding: 0 20px ;
 }
+.lending-heding-box{
+  display: flex;
+  align-items: center;
+  height: 100%;
+  border-right: 1px solid #fff;
+}
 .enterprises-service-heading .italic-font{
-  font-size:60px;
+  font-size:75px; 
 }
 .enterprises-service-content{
   padding-left: 25px;
 }
 .enterprises-clint.our-client{
-  padding-top: 100px;
+  /* padding-top: 100px; */
   background-color: var(--light-color);
 }
 
 .enterprises-clint.our-client h2{
   font-weight: 600;
   font-size: 18px;
+  
 }
 .enterprises-clint.our-client h2 .italic-font {
   font-size: 45px;
+  display: block;
 }
 .enterprises-service-3 .heading h2{
   color: var(--secondary-color);
@@ -2065,8 +2074,7 @@ background-color: var(--primary-color);
 
 .choose-enter-text{
   font-size: 14px !important ;
-  font-weight: 300 !important;
-  color: #fff !important;
+  color: #000 !important;
 }
 .choose-enterprises p{
   margin-bottom: 20px !important;
@@ -2927,3 +2935,527 @@ letter-spacing: .6px;
   display: none;
 }
 
+.lending-page{
+  background-image: url('../img/l1.avif');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lending-footer .lending-page {
+  background-image: url(../img/l3.avif);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.lending-footer  .buttons a {
+  background-color: #fff;
+  color: var(--secondary-color);
+  font-weight: 600;
+  /* margin-top: 20px; */
+}
+
+.lending-page.page-banner .main-heading h1{
+  margin-bottom: 0;
+  font-size: 60px;
+  text-align: left;
+}
+
+.lending-page.page-banner .main-heading p{
+  font-size: 14px;
+  text-align: left;
+  margin: 0;
+}
+
+.lending-about-section .lending-about h2{
+  font-size: 40px;
+  margin-bottom: 15px;
+  color :#000;
+  padding-bottom:15px ;
+  border-bottom: 1px solid #000;
+}
+.lending-about-section h4{
+  font-size: 30px;
+  margin-bottom: 12px;
+}
+.lending-about-point.choose1-heading .icon-list li {
+  color :#000;
+}
+/* 
+.work-desc.lending-about-section .container-fluid{
+    padding: 0 50px;
+} */
+.lending-about-box-1{
+  padding-right:50px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+.lending-about-box-2{
+  padding-left:50px ;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+.work-second-box.lending-first-p{
+  font-size: 20px;
+}
+sup{
+  top: 0;
+}
+
+.lending-about-box-2 p{
+  margin-bottom: 15px;
+}
+.lendingbtn-book  {
+  margin-top:20px ;
+}
+
+/* .paricing-service.lending-service .heading1 h2{
+font-size: 42px;
+font-weight: 400;
+} */
+
+.paricing-service.lending-service .heading1 p{
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 26px;
+  Padding-bottom: 25px;
+  }
+/* 
+  .lending-process {
+    background: var(--secondary-color);
+  }
+
+
+  .lending-process .left h4 {
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-bottom: 16px;
+  }
+
+  .lending-process .left h2 {
+    font-size: 56px;
+    font-weight: 500;
+    line-height: 1.2;
+    color:#fff;
+  }
+
+  .lending-process .left h1 em {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 400;
+  }
+
+  .lending-process .left p {
+    margin-top: 24px;
+    font-size: 16px;
+    color: #ccc;
+  }
+
+  .lending-process .right {
+    flex: 1;
+    position: relative;
+  }
+
+  .lending-process .timeline {
+    position: relative;
+    margin-left: 30px;
+    padding-left: 20px;
+    border-left: 2px solid #444;
+  }
+
+  .lending-process .progress-line {
+    position: absolute;
+    left: -1px;
+    top: calc(var(--circle) / 2);
+    width: 2px;
+    background: #fff;
+    height: 0;
+    z-index: 1;
+    transition: height 0.2s ease-out;
+  }
+
+  .lending-process .step {
+    position: relative;
+    margin-bottom: 120px;
+    padding-left: 50px;
+  }
+
+  .lending-process .step:last-child {
+    margin-bottom: 0;
+  }
+
+  .lending-process .step::before {
+    content: attr(data-step);
+    position: absolute;
+    top: 0;
+    left: calc(-1 * var(--circle) - 8px);
+    width: var(--circle);
+    height: var(--circle);
+    border-radius: 50%;
+    background: #222;
+    border: 2px solid #777;
+    color: #777;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: calc(var(--circle) - 4px);
+    text-align: center;
+    transition: border-color 0.3s, color 0.3s, background 0.3s;
+    z-index: 2;
+  }
+
+  .lending-process .step.active::before {
+    border-color: #fff;
+    color: #fff;
+    background: var(--bg);
+  }
+
+  .lending-process .step h3 {
+    font-size: 20px;
+    margin-bottom: 8px;
+    font-weight: 600;
+    color: #fff;
+  }
+
+  .lending-process .step p {
+    font-size: 15px;
+    color: #ccc;
+    max-width: 90%;
+  }
+
+  @media (max-width: 800px) {
+ 
+
+    .lending-process .left {
+      position: static;
+      margin-bottom: 40px;
+    }
+
+    .lending-process .timeline {
+      margin-left: 0;
+      padding-left: 30px;
+    }
+
+    .lending-process .step {
+      padding-left: 40px;
+      margin-bottom: 80px;
+    }
+
+    .lending-process .step::before {
+      left: calc(-1 * var(--circle) - 10px);
+    }
+  } */
+  
+  :root {
+    --bg: #0a2a29;
+    --text-light: #fff;
+    --text-muted: #ccc;
+    --accent: #fff;
+    --circle: 48px;
+    --secondary-color: #0a2a29;
+  }
+  
+  .lending-process {
+    background-color: var(--secondary-color);
+    color: var(--text-light);
+    padding: 60px 0;
+  }
+  
+  .lending-process .left {
+    position: sticky;
+    top: 100px;
+  }
+  
+  .lending-process  .left h4 {
+    font-size: 13px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: #aaa;
+    margin-bottom: 16px;
+  }
+  
+  .lending-process  .left h2 {
+    font-size: 65px;
+    font-weight: 500;
+    padding-right: 50px;
+    margin-bottom: 24px;
+  }
+  
+/*   .lending-process .left .italic-font {
+    font-family: Georgia, serif;
+    font-style: italic;
+    font-weight: 400;
+  } */
+  
+  .lending-process .left p {
+    margin-bottom: 3px;
+    font-size: 16px;
+    color: var(--text-muted);
+  }
+  
+  .lending-process .timeline {
+    position: relative;
+    margin-left: 30px;
+    padding-left: 40px;
+    /* border-left: 2px solid #444; */
+  }
+  
+  .lending-process .progress-line {
+    position: absolute;
+    left: -1px;
+    top: calc(var(--circle) / 2);
+    width: 2px;
+    background: var(--accent);
+    height: 0;
+    z-index: 1;
+    transition: height 0.2s ease-out;
+  }
+  
+  .lending-process .step {
+    position: relative;
+    margin-bottom: 70px;
+    padding-left: 25px;
+  }
+  .lending-process .step:last-child {
+    margin-bottom: 0;
+  }
+  .lending-process .timeline::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -1px; /* same as .progress-line */
+    width: 2px;
+    height: 90%;
+    background-color: #6c757d; /* static track color */
+    z-index: 0;
+  }
+  
+  .lending-process .step::before {
+    content: attr(data-step);
+    position: absolute;
+    top: 0;
+    left: calc(-1 * var(--circle) - 17px);
+    width: var(--circle);
+    height: var(--circle);
+    border-radius: 50%;
+    background: var(--secondary-color);
+    border: 2px solid #6c757d;
+    color: #6c757d;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: calc(var(--circle) - 4px);
+    text-align: center;
+    transition: border-color 0.3s, color 0.3s, background 0.3s;
+    z-index: 2;
+    font-family: "Instrument Serif", serif;
+
+  }
+  
+  .lending-process .step.active::before {
+    border-color: var(--accent);
+    color: var(--accent);
+    background: var(--bg);
+  }
+  
+  .lending-process .step h3 {
+    font-size: 24px;
+    margin-bottom: 8px;
+   /*  font-weight: 600; */
+  }
+  
+  .lending-process  .step p {
+    font-size: 17px;
+    color: #fff;
+    /* max-width: 90%; */
+    line-height: 25px;
+  }
+  
+  @media (max-width: 800px) {
+   
+  
+    .lending-process .left {
+      position: static;
+      margin-bottom: 40px;
+    }
+  
+    .lending-process .timeline {
+      margin-left: 0;
+      padding-left: 30px;
+    }
+  
+    .lending-process .step {
+      padding-left: 40px;
+      margin-bottom: 80px;
+    }
+  
+    .lending-process .step::before {
+      left: calc(-1 * var(--circle) - 10px);
+    }
+    .enterprises-service-heading{
+      
+    }
+  }
+
+  .left-lendign-sticky{
+    height:100%;
+  }
+  .lending-footer .page-banner .main-heading p.main-mini-heading{
+    width: 100%;
+    background-color: transparent;
+    margin-bottom: 20px;
+  }
+  .lending-footer .page-banner .main-heading{
+    padding: 40px 0;
+  }
+  .lending-about-section {
+    background-color: var(--light-color);
+  }
+  .lending-about-section  .work-desc-img{
+    border-radius: 15px;
+    overflow: hidden;
+    max-height: 580px;
+  }
+ /*  .lending-about-section  .work-desc-img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+  } */
+ .enterprises-main-section .buttons{  
+  margin-top: 35px;
+ }
+
+
+ 
+
+
+
+ .footer-accordian .accordion-summary {
+  list-style: none; 
+  cursor: pointer;
+  position: relative;
+  padding-right: 2.5rem; 
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 20px; 
+ /*  font-weight: 500; */ 
+  line-height: 1.5; 
+  color: #f7fafc; 
+  outline: none; 
+}
+
+.footer-accordian .accordion-summary::-webkit-details-marker {
+  display: none; 
+}
+
+.footer-accordian .accordion-summary::after {
+  content: '+'; 
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.5rem;
+  transition: transform 0.3s ease-in-out;
+  color: #e2e8f0; 
+}
+
+.footer-accordian details.is-open .accordion-summary::after {
+  content: '-'; 
+}
+
+.footer-accordian .accordion-content {
+  
+  overflow: hidden;
+  transition: max-height 0.4s ease-in-out, padding 0.4s ease-in-out, opacity 0.4s ease-in-out; /* Smooth transition */
+  opacity: 0; 
+  padding-top: 10px; 
+  padding-bottom: 0; 
+
+  font-size: 15; 
+  line-height: 1.5;
+  color: #a0aec0; 
+}
+
+.footer-accordian details.is-open .accordion-content {
+  opacity: 1; 
+}
+.footer-accordian details.is-open .accordion-summary{
+  margin-bottom: 10PX;
+}
+.footer-accordian .accordion-item + .accordion-item {
+  border-top: 1px solid #2d3748; 
+}
+
+.footer-accordian .header-light {
+  color: #fff; 
+  font-size:1rem; 
+  letter-spacing: 0.05em; 
+  text-transform: uppercase;
+}
+
+.footer-accordian .header-dark {
+  color: #fff;
+  font-size: 3rem;
+  font-weight: 500; 
+  line-height: 1;
+}
+
+.footer-accordian .header-dark em {
+  font-style: italic;
+  font-weight: 400; 
+  font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif; 
+}
+
+@media (max-width: 768px) {
+  .footer-accordian .header-dark {
+      font-size: 2.25rem; 
+  }
+}
+
+.footer-accordian{
+  background-color: var(--secondary-color);
+}
+
+
+.footer-accordian details .accordion-content {
+  max-height: 0;
+  overflow: hidden;
+  opacity: 0;
+  padding-top: 0px;
+  padding-bottom: 0;
+  transition: max-height 0.4s ease, opacity 0.4s ease, padding 0.4s ease;
+}
+
+/* .footer-accordian details.is-open .accordion-content {
+  opacity: 1;
+
+   padding-top: 0.75rem;
+  padding-bottom: 0.75rem; 
+} */
+/* 
+.footer-accordian details.is-open .accordion-content.open {
+  min-height: 56px !important; 
+  max-height: 1000px !important; 
+}
+ */
+
+
+ .lending-footer1 {
+  background: var(--secondary-color);
+  padding-top: 0   !important;
+ }
+ .lending-footer1 .copyright-area{
+  border-top: 1px solid #5f5f5f;
+  padding-top:20px;
+  
+ }
+
+ .lending-footer-logo{
+  text-align: center;
+ }
