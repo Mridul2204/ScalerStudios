@@ -935,6 +935,15 @@ line-height: var(--f-fs-font-fs40);
     font-size: 36px;
     line-height: 40px;
 }
+
+.footer-accordian .accordion-summary{
+    font-size: 18px;
+}
+
+.py-4 {
+    padding-top: 1.2rem!important;
+    padding-bottom: 1.2rem!important;
+}
 }
 
 @media only screen and (max-width: 768px) {
@@ -1155,6 +1164,17 @@ line-height: var(--f-fs-font-fs40);
         text-align: left;
         padding: 10px 0;
        }
+
+    .lending-footer1 .copyright-area{
+    margin-top: 0 !important;
+    }
+    .footer-accordian .row>*{
+    margin-top: 0;
+    }
+
+    .lending-ac-bd-top{
+    border-bottom: 1px solid #2d3748;
+    }
 }
 
 
@@ -1459,6 +1479,7 @@ line-height: var(--f-fs-font-fs40);
 
     .footer-accordian .accordion-summary {
         font-size: 16px;
+}
 }
 @media only screen and (max-width: 480px) {
 
