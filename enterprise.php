@@ -452,7 +452,7 @@
                                     <p>We create standout content that scales with your team and converts like clockwork.</p>
                                 </div>
                                 <div class="step" data-step="5" id="last-step" style="border: none;">
-                                    <h3>RAnalyze. Optimize. Amplify.</h3>
+                                    <h3>Analyze. Optimize. Amplify.</h3>
                                     <p>After launch, we track results and refine every detail to boost performance.</p>
                                 </div>
                             </div>
