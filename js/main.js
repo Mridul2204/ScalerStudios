@@ -1167,3 +1167,4 @@ $(".tes1-slider").slick({
 
 
 
+window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/mridulkhurana/strategycall?primary_color=1dbf73', text: 'Book Demo', color: '#1dbf73', textColor: '#000000', branding: false }); }
