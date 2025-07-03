@@ -24,6 +24,7 @@
         <link rel="stylesheet" href="css/slick-slider.css" />
         <link rel="stylesheet" href="css/owl.carousel.min.css" />
         <link rel="stylesheet" href="css/aos.css" />
+        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
         <link rel="stylesheet" href="css/mobile-menu.css" />
         <link rel="stylesheet" href="css/main.css" />
         <link rel="stylesheet" href="css/style.css" />
@@ -644,6 +645,7 @@
                 </div>
             </div>
         </div>
+        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/aos.js"></script>
         <script src="js/jquery.waypoints.min.js"></script>
