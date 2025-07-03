@@ -18,6 +18,7 @@
 
 
       <!--=====CSS=======-->
+      <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
       <link rel="stylesheet" href="css/bootstrap.min.css">
       <link rel="stylesheet" href="css/magnific-popup.css">
       <link rel="stylesheet" href="css/nice-select.css">
