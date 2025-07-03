@@ -186,6 +186,7 @@
       </div>
    </div>
 </div>
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
 <script src="js/bootstrap.min.js"></script>
 <script src="js/aos.js"></script>
 <script src="js/jquery.waypoints.min.js"></script>
