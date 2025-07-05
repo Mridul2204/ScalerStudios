@@ -3465,7 +3465,7 @@ font-weight: 400;
     padding: 0;
 }
 
-.home-work-desc.work-desc .container-fluid .row>* {
+.home-work-desc.work-desc .row>* {
     padding: 0;
 }
 .work-desc .row {
