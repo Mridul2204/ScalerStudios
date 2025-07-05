@@ -35,7 +35,7 @@
                      <div class="heading1">
                         <h2 style=" text-align:center; color:#fff;">Your <span class="italic-font">Creative Team's</span><br>creative team<sup>TM</sup></h2>
                         <div class="buttons">
-                           <a class="theme-btn2" href="#">Book Now</a>
+                           <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book Now</a>
                         </div>
                      </div>
                   </div>
