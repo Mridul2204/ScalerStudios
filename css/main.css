@@ -21171,3 +21171,16 @@ section{
   .footer-btn{
     margin-top: 25px;
   }
+
+
+.home-work-desc.work-desc .container-fluid {
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+.home-work-desc.work-desc .row>* {
+    padding: 0 !important;
+}
+.work-desc .row {
+    margin: 0 !important;
+}
