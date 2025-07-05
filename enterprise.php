@@ -78,7 +78,7 @@
                             <h1 class="">The secret sauce <span class="italic-font">behind</span> breakout <span class="italic-font">brand growth.</span></h1>
                             <p>Scale your brand with scroll-stopping content, high-converting videos, and creative that gives you an unfair advantage.</p>
                             <div class="buttons" id="openPopupBtn">
-                                <a class="theme-btn2" href="javascript:void(0)">Book a demo</a>
+                                <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
                             </div>
                         </div>
                     </div>
@@ -248,7 +248,7 @@
                             </p>
 
                             <div class="buttons lendingbtn-book">
-                                <a class="theme-btn2" href="#">Book A Demo</a>
+                                <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book A Demo</a>
                             </div>
                         </div>
                     </div>
@@ -474,7 +474,7 @@
                            From 7-figure founders to rising startups, the most ambitious brands trust us to deliver scroll-stopping content, high-converting videos, and marketing assets that actually move the needle.
                         </p> -->
                                 <div class="buttons" id="openPopupBtn">
-                                    <a class="theme-btn2" href="javascript:void(0)">Book a demo</a>
+                                    <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
                                 </div>
                             </div>
                         </div>
