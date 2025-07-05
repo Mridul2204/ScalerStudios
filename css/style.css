@@ -3459,3 +3459,15 @@ font-weight: 400;
  .lending-footer-logo{
   text-align: center;
  }
+
+.home-work-desc.work-desc .container-fluid {
+    width: 100%;
+    padding: 0;
+}
+
+.home-work-desc.work-desc .container-fluid .row>* {
+    padding: 0;
+}
+.work-desc .row {
+    margin: 0;
+}
