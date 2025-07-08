@@ -183,9 +183,10 @@
                                     <span class="italic-font">creative firepower</span> Without<span class="italic-font"> the chaos.</span>
                                 </h2>
                             </div>
-                            <div class="work-second-box lending-first-p">
-                                Deadlines are piling up. Your team's swamped. Creativity shouldn't be the bottleneck.
-                            </div>
+                          <!--   <div class="work-second-box lending-first-p">
+                               
+                            </div> -->
+                            <p> Deadlines are piling up. Your team's swamped. Creativity shouldn't be the bottleneck.</p>
                             <!--  <h4>
                         That's where <span class="italic-font"> Scaler Studios steps in.</span>
                      </h4> -->
