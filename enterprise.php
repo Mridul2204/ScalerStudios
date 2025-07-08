@@ -183,21 +183,21 @@
                                     <span class="italic-font">creative firepower</span> Without<span class="italic-font"> the chaos.</span>
                                 </h2>
                             </div>
-                          <!--   <div class="work-second-box lending-first-p">
-                               
-                            </div> -->
-                            <p> Deadlines are piling up. Your team's swamped. Creativity shouldn't be the bottleneck.</p>
+                             <div class="work-second-box lending-first-p">
+                                Deadlines are piling up. Your team's swamped. Creativity shouldn't be the bottleneck.
+                            </div> 
+                            <p>There's a faster way to scale creativity, without relying on freelancers or burnout.</p>
                             <!--  <h4>
                         That's where <span class="italic-font"> Scaler Studios steps in.</span>
                      </h4> -->
-                            <div class="heading1 lending-about-point choose1-heading padding-right">
+                            <!-- <div class="heading1 lending-about-point choose1-heading padding-right">
                                 <div class="row">
                                     <div class="col-lg-12">
                                         <ul class="icon-list">
                                             <li>There's a faster way to scale creativity, without relying on freelancers or burnout.</li>
                                         </ul>
                                     </div>
-                                    <!-- <div class="col-lg-12">
+                                     <div class="col-lg-12">
                               <ul class="icon-list">
                                  <li><span><i class="fa-solid fa-check"></i></span> No more bottlenecks. No more patchy freelancers.</li>
                               </ul>
@@ -206,9 +206,9 @@
                               <ul class="icon-list">
                                  <li><span><i class="fa-solid fa-check"></i></span>Just world-class video editors, designers, and marketers ready to execute—fast, on-brand, and on fire.</li>
                               </ul>
-                           </div> -->
+                           </div> 
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="buttons">
                                 <a class="theme-btn2" href="#">Show Me How</a>
                             </div>
