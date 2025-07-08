@@ -209,7 +209,7 @@
                            </div> 
                                 </div>
                             </div> -->
-                            <div class="buttons">
+                            <div class="buttons lendingbtn-book">
                                 <a class="theme-btn2" href="#">Show Me How</a>
                             </div>
                         </div>
