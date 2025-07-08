@@ -437,24 +437,24 @@
                             <div class="timeline" id="timeline">
                                 <div class="progress-line" id="progress"></div>
                                 <div class="step" data-step="1">
-                                    <h3>Smart start</h3>
-                                    <p>We dive into your goals, voice, and pain points—then match you with creatives who just get it.</p>
+                                    <h3>Discovery & Alignment</h3>
+                                    <p>We begin by understanding your brand’s mission, goals, and challenges, ensuring we’re aligned from the start.</p>
                                 </div>
                                 <div class="step" data-step="2">
-                                    <h3>Personalized plan</h3>
-                                    <p>Your brand gets a custom creative plan that fits your goals, style, and timeline.</p>
+                                    <h3>Tailored Strategy</h3>
+                                    <p>Based on our understanding, we craft a custom strategy, blending creativity with data-driven insights for maximum impact.</p>
                                 </div>
                                 <div class="step" data-step="3">
-                                    <h3>Plug-in ready</h3>
-                                    <p>We plug into your tools, follow your workflows, and feel like part of the team.</p>
+                                    <h3>Seamless Integration</h3>
+                                    <p>We integrate with your existing tools and workflows, making collaboration effortless, and ensuring you feel like we’re part of your team.</p>
                                 </div>
                                 <div class="step" data-step="4">
-                                    <h3>Scaled Execution</h3>
-                                    <p>We create standout content that scales with your team and converts like clockwork.</p>
+                                    <h3>Creative Execution</h3>
+                                    <p>We bring your vision to life through high-quality, attention-grabbing content designed to drive results and scale with your brand.</p>
                                 </div>
                                 <div class="step" data-step="5" id="last-step" style="border: none;">
-                                    <h3>Analyze. Optimize. Amplify.</h3>
-                                    <p>After launch, we track results and refine every detail to boost performance.</p>
+                                    <h3>Optimize & Scale</h3>
+                                    <p>Post-launch, we monitor performance, fine-tune strategies, and continuously optimize to ensure sustained growth and conversion.</p>
                                 </div>
                             </div>
                         </div>
