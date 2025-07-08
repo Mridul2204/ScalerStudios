@@ -302,5 +302,10 @@
                 <li class="dropdown-menu-parrent"><a href="enterprise.php" class="main1" >Enterprise </a></li>
             </ul>
          </div>
+         <div class="header2-buttons">
+                           <div class="button">
+                           <a class="theme-btn1" href="javascript:void(0)" id="openPopupBtn" >Get Started</a>
+                           </div>
+                        </div>
       </div>
       <!--=====Mobile header end=======-->
