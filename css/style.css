@@ -3007,9 +3007,10 @@ sup{
   top: 0;
 }
 
-.lending-about-box-2 p{
+.lending-about-box-2 p, .lending-about-box-1 p{
   margin-bottom: 15px;
 }
+
 .lendingbtn-book  {
   margin-top:20px ;
 }
