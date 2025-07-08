@@ -816,7 +816,7 @@ line-height: var(--f-fs-font-fs40);
     margin-bottom: 15px;
 }
 .mobile-sidebar .logo-m img{
-    height: 65px;
+    height: 52px;
 }
 .menu-close {
     color: #fff;
@@ -946,8 +946,9 @@ line-height: var(--f-fs-font-fs40);
 }
     .theme-btn1 {
  
-    padding: 5px 14px;
+    padding: 3px 14px;
  margin-top:10px;
+        font-size:15px;
 }
 }
 
