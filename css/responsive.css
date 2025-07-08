@@ -944,6 +944,11 @@ line-height: var(--f-fs-font-fs40);
     padding-top: 1.2rem!important;
     padding-bottom: 1.2rem!important;
 }
+    .theme-btn1 {
+ 
+    padding: 5px 14px;
+ margin-top:10px;
+}
 }
 
 @media only screen and (max-width: 768px) {
