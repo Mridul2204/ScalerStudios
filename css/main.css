@@ -21173,14 +21173,14 @@ section{
   }
 
 
-.work-desc .container-fluid {
+.home-wd .work-desc .container-fluid {
     width: 100% !important;
     padding: 0 !important;
 }
 
- .work-desc .row>* {
+ home-wd .work-desc .row>* {
     padding: 0 !important;
 }
-.work-desc .row {
+home-wd .work-desc .row {
     margin: 0 !important;
 }
