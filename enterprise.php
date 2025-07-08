@@ -77,7 +77,7 @@
                             <!-- <p class="main-mini-heading">ABOUT US</p> -->
                             <h1 class="">The secret sauce <span class="italic-font">behind</span> breakout <span class="italic-font">brand growth.</span></h1>
                             <p>Scale your brand with scroll-stopping content, high-converting videos, and creative that gives you an unfair advantage.</p>
-                            <div class="buttons" id="openPopupBtn">
+                            <div class="buttons" >
                                 <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
                             </div>
                         </div>
