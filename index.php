@@ -943,7 +943,7 @@
       </div>
    </div>
 </div>
-<div class="work-desc">
+<div class="work-desc home-wd">
    <div class="container-fluid">
       <div class="row">
          <div class="col-md-6">
