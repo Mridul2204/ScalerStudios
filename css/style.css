@@ -2936,14 +2936,14 @@ letter-spacing: .6px;
 }
 
 .lending-page{
-  background-image: url('../img/l1.avif');
+  background-image: url('../img/l1.jpg');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .lending-footer .lending-page {
-  background-image: url(../img/l3.avif);
+  background-image: url(../img/l3.jpg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
