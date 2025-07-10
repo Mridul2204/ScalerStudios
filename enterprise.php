@@ -216,7 +216,7 @@
                     </div>
                     <div class="col-lg-6">
                         <div class="work-desc-img">
-                            <img src="img/bbg.jpg" alt="" />
+                            <img src="img/l3.jpg" alt="" />
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@
                 <div class="row">
                     <div class="col-lg-6 lending-about-box-order-2">
                         <div class="work-desc-img">
-                            <img src="img/l2.avif" alt="" />
+                            <img src="img/l2.jpg" alt="" />
                         </div>
                     </div>
                     <div class="col-lg-6 lending-about-box-order-1">
