@@ -32,6 +32,18 @@
       <link rel="stylesheet" href="css/responsive.css">
       <!--=====JQUERY=======-->
       <script src="js/jquery-3-6-0.min.js"></script>
+
+      <!-- Google tag (gtag.js) -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-XJBCHZNXWK"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+      
+        gtag('config', 'G-XJBCHZNXWK');
+      </script>
+
+      
    </head>
    <body class="body" >
   
