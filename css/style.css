@@ -3462,3 +3462,32 @@ font-weight: 400;
  }
 
 
+
+ .thankyou-screen ol{
+  max-width: 600px;
+  text-align: left;
+  margin: 20px 0;
+ }
+
+/*  .thankyou-screen ol li{
+  padding: 3px 0;
+ } */
+
+ .thankyou-messege{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+ }
+
+ .thankyou-screen{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction:column;
+  max-width: 900px;
+  width: 100%;
+  margin: 0 auto;
+ }
+
+
