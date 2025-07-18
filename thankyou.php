@@ -17,7 +17,7 @@
                 <li> <p> We'll discuss tailored strategies to boost your business. </p></li>
                 </ol>
                 <p>Need anything before your meeting?<br>
-                Reach us at <a href="mailto:contact@scalerstudios.com">contact@scalerstudios.com</a>
+                Reach us at <a href="mailto:Mridul@scalerstudios.com">Mridul@scalerstudios.com</a>
                 </p>
             </div>
          </div>
