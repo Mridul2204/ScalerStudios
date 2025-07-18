@@ -474,7 +474,7 @@
                                 <!-- <p style="color:#fff;">Scaler Studios isn't just a creative agency. We're your unfair advantage.
                            From 7-figure founders to rising startups, the most ambitious brands trust us to deliver scroll-stopping content, high-converting videos, and marketing assets that actually move the needle.
                         </p> -->
-                                <div class="buttons" id="openPopupBtn">
+                                <div class="buttons">
                                     <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
                                 </div>
                             </div>
