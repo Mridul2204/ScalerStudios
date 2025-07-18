@@ -1716,8 +1716,8 @@ line-height: var(--f-fs-font-fs40);
     font-size: 32px;
     margin-bottom: 17px;
 }
-.page-banner .main-heading {
-    padding-top: 45px;
+.page-banner .main-heading.thankyou-screen {
+    padding-bottom: 45px;
 }
 .lending-page.page-banner .main-heading h1 {
     font-size: 36px;
