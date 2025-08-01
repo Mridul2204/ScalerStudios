@@ -31,7 +31,7 @@
 
       <link rel="stylesheet" href="css/responsive.css">
 
-       <link rel="icon" href="img/favicon.png" title="Favicon" sizes="96x96">
+       <link rel="icon" href="img/favicon.png" title="Favicon" sizes="64x64">
 
 
 
