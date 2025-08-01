@@ -30,6 +30,9 @@
       <link rel="stylesheet" href="css/style.css">
 
       <link rel="stylesheet" href="css/responsive.css">
+
+      <link rel="icon" href="img/favicon.png" title="Favicon" sizes="64x64">
+      
       <!--=====JQUERY=======-->
       <script src="js/jquery-3-6-0.min.js"></script>
 
