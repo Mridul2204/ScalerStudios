@@ -314,7 +314,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="header2-buttons">
                            <div class="button">
-                              <a class="theme-btn1" href="javascript:void(0)" id="openPopupBtn" >Get Started</a>
+                              <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                            </div>
                         </div>
                      </div>
@@ -358,8 +358,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
          </div>
          <div class="header2-buttons">
                            <div class="button">
-                           <a class="theme-btn1" href="javascript:void(0)" id="openPopupBtn" >Get Started</a>
+                           <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                            </div>
                         </div>
       </div>
+      <script src="//embed.typeform.com/next/embed.js"></script>
       <!--=====Mobile header end=======-->

@@ -133,7 +133,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <h1 class="">The secret sauce <span class="italic-font">behind</span> breakout <span class="italic-font">brand growth.</span></h1>
                             <p>Scale your brand with scroll-stopping content, high-converting videos, and creative that gives you an unfair advantage.</p>
                             <div class="buttons" >
-                                <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
+                                <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                             </div>
                         </div>
                     </div>
@@ -304,7 +304,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             </p>
 
                             <div class="buttons lendingbtn-book">
-                                <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book A Demo</a>
+                                <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                             </div>
                         </div>
                     </div>
@@ -530,7 +530,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                            From 7-figure founders to rising startups, the most ambitious brands trust us to deliver scroll-stopping content, high-converting videos, and marketing assets that actually move the needle.
                         </p> -->
                                 <div class="buttons">
-                                    <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
+                                    <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                                 </div>
                             </div>
                         </div>
@@ -675,32 +675,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
         <div id="popupModal" class="popup">
             <span class="close-btn">&times;</span>
-            <div class="popup-content">
-                <form id="demoForm">
-                    <div class="form-container">
-                        <div class="form-filed-width">
-                            <div id="step1" class="input-container">
-                                <input type="text" id="name" placeholder="Name" required />
-                            </div>
-                            <div id="step2" class="input-container" style="display: none;">
-                                <input type="email" id="email" placeholder="Email" required />
-                            </div>
-                            <div id="step3" class="input-container" style="display: none;">
-                                <input type="tel" id="phone" placeholder="Phone Number" required />
-                            </div>
-                        </div>
-                        <div class="form-next-btn">
-                            <div class="button-container">
-                                <input type="submit" value="→" />
-                            </div>
-                        </div>
-                    </div>
-                </form>
-                <div class="progress-container">
-                    <div id="progressBar" class="progress-bar"></div>
-                </div>
+            <div class="popup-content" style="width: 100%; max-width: 600px; height: 500px;">
+                <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
             </div>
         </div>
+        <script src="//embed.typeform.com/next/embed.js"></script>
         <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
         <script src="js/bootstrap.min.js"></script>
         <script src="js/aos.js"></script>
@@ -725,23 +704,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             const modal = document.getElementById("popupModal");
             const openPopupBtn = document.getElementById("openPopupBtn");
             const closeBtn = document.querySelector(".close-btn");
-            const form = document.getElementById("demoForm");
-            const submitBtn = form.querySelector('input[type="submit"]');
-            const step1 = document.getElementById("step1");
-            const step2 = document.getElementById("step2");
-            const step3 = document.getElementById("step3");
-            const progressBar = document.getElementById("progressBar");
-
-            let currentStep = 1;
 
             openPopupBtn.onclick = function () {
                 modal.style.display = "flex";
-                currentStep = 1; // Reset to step 1 when opened
-                step1.style.display = "block";
-                step2.style.display = "none";
-                step3.style.display = "none";
-                submitBtn.value = "→";
-                updateProgressBar();
             };
 
             closeBtn.onclick = function () {
@@ -753,35 +718,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     modal.style.display = "none";
                 }
             };
-
-            submitBtn.onclick = function (event) {
-                event.preventDefault();
-
-                if (currentStep === 1) {
-                    step1.style.display = "none";
-                    step2.style.display = "block";
-                    currentStep = 2;
-                } else if (currentStep === 2) {
-                    step2.style.display = "none";
-                    step3.style.display = "block";
-                    submitBtn.value = "→";
-                    currentStep = 3;
-                } else if (currentStep === 3) {
-                    alert("Demo booked!");
-                    modal.style.display = "none";
-                }
-
-                updateProgressBar();
-            };
-
-            function updateProgressBar() {
-                let progress = 0;
-                if (currentStep === 1) progress = 33;
-                else if (currentStep === 2) progress = 66;
-                else if (currentStep === 3) progress = 100;
-
-                progressBar.style.width = progress + "%";
-            }
         </script>
         <script>
             document.addEventListener("DOMContentLoaded", function () {

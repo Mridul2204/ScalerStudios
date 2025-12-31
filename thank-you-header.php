@@ -314,7 +314,7 @@ src="https://www.facebook.com/tr?id=643385051467272&ev=PageView&noscript=1"
                         </div>
                         <div class="header2-buttons">
                            <div class="button">
-                           <a class="theme-btn1" href="javascript:void(0)" id="openPopupBtn" >Get Started</a>
+                              <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                            </div>
                         </div>
                      </div>
@@ -360,8 +360,9 @@ src="https://www.facebook.com/tr?id=643385051467272&ev=PageView&noscript=1"
          </div>
          <div class="header2-buttons">
                            <div class="button">
-                           <a class="theme-btn1" href="javascript:void(0)" id="openPopupBtn" >Get Started</a>
+                           <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                            </div>
                         </div>
       </div>
+      <script src="//embed.typeform.com/next/embed.js"></script>
       <!--=====Mobile header end=======-->

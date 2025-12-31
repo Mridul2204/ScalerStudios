@@ -39,7 +39,7 @@
                            ensuring consistency.
                         </p>
                         <div class="buttons">
-                           <a class="theme-btn2" href="#">Book Now</a>
+                           <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                         </div>
                      </div>
                   </div>

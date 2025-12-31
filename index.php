@@ -69,7 +69,7 @@
                <h1 class="">The <span class="sora-font">Creative Powerhouse</span> for Your Team</h1>
                <p>Power up your brand with elite talent and AI-driven execution—faster, smarter, and unstoppable.</p>
                <div class="buttons">
-                  <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
+                  <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                </div>
             </div>
          </div>
@@ -961,7 +961,7 @@
                Partner with boundary-pushing designers, strategists, animators, and AI experts from around the world. Scaler Studios brings together elite talent to scale your vision faster, smarter, and beautifully.
                </div>
                <div class="buttons">
-                  <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
+                  <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                </div>
             </div>
          </div>
@@ -991,7 +991,7 @@
                From branding to breakthrough innovation, we curate world-class professionals ready to plug into your workflow. Scaler Studios delivers premium, flexible talent across every creative discipline — without the overhead.
                </div>
                <div class="buttons">
-                  <a class="theme-btn2" href="https://calendly.com/mridulkhurana/strategycall">Book a demo</a>
+                  <div data-tf-live="01KDRASAPFVA03MN438SCCMHA5"></div>
                </div>
             </div>
          </div>
