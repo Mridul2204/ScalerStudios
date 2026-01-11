@@ -184,7 +184,7 @@
                   <img src="img/Graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -320,6 +320,7 @@
     });
   });
 </script>
+
 
 
     <?php include 'footer.php';?>
