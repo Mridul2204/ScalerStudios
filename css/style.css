@@ -2469,10 +2469,10 @@ font-size: 16px;
   overflow: hidden;
 }
 
-.our-work-port.portfolio .portfolio-card .portfolio-image{
+/* .our-work-port.portfolio .portfolio-card .portfolio-image{
   height: 205px; 
 }
-
+ */
 .portfolio .portfolio-filters li {
   font-size: 38px;
   font-weight: 500;
@@ -3489,5 +3489,6 @@ font-weight: 400;
   width: 100%;
   margin: 0 auto;
  }
+
 
 
