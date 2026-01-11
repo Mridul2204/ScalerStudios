@@ -78,10 +78,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Web-Service1.png" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/Web-Service1.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Web-Service1.png" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/Web-Service1.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -324,5 +324,6 @@
 
 
     <?php include 'footer.php';?>
+
 
 
