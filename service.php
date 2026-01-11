@@ -129,10 +129,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-ai">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Video-Services-1.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/ai-enhace-creative.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Video-Services-1.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/ai-enhace-creative.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -148,10 +148,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-marketing">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/fb-ad.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/face-book-ads.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/fb-ad.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-motion"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/face-book-ads.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-motion"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -186,10 +186,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-creative">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -205,10 +205,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-creative">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/video-editing.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/video-editor.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/video-editing.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/video-editor.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -224,10 +224,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-creative">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/motion-design.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/motion-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -246,10 +246,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-creative">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/social-media-creative.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/social-media-creative.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -264,10 +264,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-creative">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/print-design.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/print-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -283,10 +283,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-ai">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Web-Service1.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/ai-cinsulting.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Web-Service1.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/ai-cinsulting.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -307,10 +307,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-marketing">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Web-Service1.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/marketing-stretergy.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Web-Service1.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/marketing-stretergy.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -330,10 +330,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-marketing">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Web-Service1.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/google-ads.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/Web-Service1.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/google-ads.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -599,4 +599,5 @@
       </div>
 
  -->
+
 <?php include 'footer.php';?>
