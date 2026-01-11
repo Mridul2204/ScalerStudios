@@ -74,14 +74,14 @@
           </div>
 
           <div class="row isotope-container">
-<!-- 
+ 
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/service4-img1.png" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/Web-Service1.png" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/service4-img1.png" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/Web-Service1.png" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -92,9 +92,9 @@
                 
                 </div>
               </div>
-            </div> -->
+            </div> 
 
-            <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item  isotope-item filter-web">
+            <!-- <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item  isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
                 <iframe 
@@ -119,7 +119,7 @@
                 
                 </div>
               </div>
-            </div>
+            </div> -->
 
             <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-graphics">
               <div class="portfolio-card trigger-btn" data-target="content1" >
@@ -143,10 +143,10 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-motion">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/fb-ad.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/face-book-ads.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/fb-ad.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-motion"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/face-book-ads.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-motion"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -181,7 +181,7 @@
             <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/Graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
                       <a href="img/graphic-design.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
@@ -200,10 +200,10 @@
             <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-graphics">
               <div class="portfolio-card">
                 <div class="portfolio-image">
-                  <img src="img/video-editing.jpg" class="img-fluid" alt="" loading="lazy">
+                  <img src="img/video-editor.jpg" class="img-fluid" alt="" loading="lazy">
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/video-editing.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
+                      <a href="img/video-editor.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -324,4 +324,5 @@
 
 
     <?php include 'footer.php';?>
+
 
