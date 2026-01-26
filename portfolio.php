@@ -94,7 +94,7 @@
               </div>
             </div> 
 
-           <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item  isotope-item filter-web">
+           <!-- <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item  isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
                 <iframe 
@@ -108,7 +108,7 @@
                </iframe>
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="https://www.youtube.com/embed/1azd9h5qdfM?autoplay=1&mute=1&loop=1&playlist=1azd9h5qdfM&controls=0&modestbranding=1&rel=0&playsinline=1" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="#" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -119,7 +119,7 @@
                 
                 </div>
               </div>
-            </div> 
+            </div>  -->
           <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-vediting">
               <div class="portfolio-card">
                 <div class="portfolio-image">
