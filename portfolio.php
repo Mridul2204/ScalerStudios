@@ -120,8 +120,25 @@
                 </div>
               </div>
             </div> -->
-
-            <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-graphics">
+          <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-vediting">
+              <div class="portfolio-card">
+                <div class="portfolio-image">
+                  <img src="img/video-editor.jpg" class="img-fluid" alt="" loading="lazy">
+                  <div class="portfolio-overlay">
+                    <div class="portfolio-actions">
+                      <a href="img/video-editor.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
+                      
+                    </div>
+                  </div>
+                </div>
+                <div class="portfolio-content">
+                  <span class="category">video Editing</span>
+                  <h3>Digital Art Collection</h3>
+                 
+                </div>
+              </div>
+            </div>
+            <!-- <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-graphics">
               <div class="portfolio-card trigger-btn" data-target="content1" >
                 <div class="portfolio-image">
                   <img src="img/Video-Services-1.jpg" class="img-fluid" alt="" loading="lazy">
@@ -138,9 +155,11 @@
                  
                 </div>
               </div>
-            </div><!-- End Portfolio Item -->
+            </div> -->
+             
+             <!-- End Portfolio Item -->
 
-            <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-motion">
+            <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-brand">
               <div class="portfolio-card">
                 <div class="portfolio-image">
                   <img src="img/face-book-ads.jpg" class="img-fluid" alt="" loading="lazy">
@@ -178,7 +197,7 @@
               </div>
             </div><!-- End Portfolio Item -->
 
-            <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-web">
+            <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item isotope-item filter-graphics">
               <div class="portfolio-card">
                 <div class="portfolio-image">
                   <img src="img/graphic-design.jpg" class="img-fluid" alt="" loading="lazy">
@@ -197,24 +216,8 @@
               </div>
             </div><!-- End Portfolio Item -->
 
-            <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-graphics">
-              <div class="portfolio-card">
-                <div class="portfolio-image">
-                  <img src="img/video-editor.jpg" class="img-fluid" alt="" loading="lazy">
-                  <div class="portfolio-overlay">
-                    <div class="portfolio-actions">
-                      <a href="img/video-editor.jpg" class="glightbox preview-link" data-gallery="portfolio-gallery-graphics"><i class="fa-solid fa-link"></i></a>
-                      
-                    </div>
-                  </div>
-                </div>
-                <div class="portfolio-content">
-                  <span class="category">video Editing</span>
-                  <h3>Digital Art Collection</h3>
-                 
-                </div>
-              </div>
-            </div><!-- End Portfolio Item -->
+           
+             <!-- End Portfolio Item -->
 
           </div><!-- End Portfolio Container -->
 
@@ -324,6 +327,7 @@
 
 
     <?php include 'footer.php';?>
+
 
 
 
