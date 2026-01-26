@@ -94,7 +94,7 @@
               </div>
             </div> 
 
-            <!-- <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item  isotope-item filter-web">
+           <div class="col-lg-3 col-md-6 col-sm-6 portfolio-item  isotope-item filter-web">
               <div class="portfolio-card">
                 <div class="portfolio-image">
                 <iframe 
@@ -119,7 +119,7 @@
                 
                 </div>
               </div>
-            </div> -->
+            </div> 
           <div class="col-lg-6 col-md-6 col-sm-6 portfolio-item isotope-item filter-vediting">
               <div class="portfolio-card">
                 <div class="portfolio-image">
@@ -327,6 +327,7 @@
 
 
     <?php include 'footer.php';?>
+
 
 
 
