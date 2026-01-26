@@ -108,7 +108,7 @@
                </iframe>
                   <div class="portfolio-overlay">
                     <div class="portfolio-actions">
-                      <a href="img/service4-img1.png" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
+                      <a href="https://www.youtube.com/embed/1azd9h5qdfM?autoplay=1&mute=1&loop=1&playlist=1azd9h5qdfM&controls=0&modestbranding=1&rel=0&playsinline=1" class="glightbox preview-link" data-gallery="portfolio-gallery-web"><i class="fa-solid fa-link"></i></a>
                       
                     </div>
                   </div>
@@ -327,6 +327,7 @@
 
 
     <?php include 'footer.php';?>
+
 
 
 
