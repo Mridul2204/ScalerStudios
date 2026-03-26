@@ -126,7 +126,7 @@
                         <div class="lending-about-box-2">
                             <div class="lending-about">
                                 <!-- <p class="mini-heading" style="border-bottom:1px solid #;">
-                           CREATIVE POWERHOUSE
+                           CREATIVE POWERHOUSE 
                            </p>  -->
                                 <h2 class="">
 
