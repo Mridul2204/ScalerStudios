@@ -114,7 +114,7 @@
 
 
 
-<div class="work-desc lending-about-section lending-about-section2 enter-desc sp">
+<div class="work-desc lending-about-section lending-about-section2 enter-desc sp dtc-work">
             <div class="container-fluid">
                 <div class="row">
                     <div class="col-lg-6 lending-about-box-order-2">
