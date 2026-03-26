@@ -1178,6 +1178,10 @@ line-height: var(--f-fs-font-fs40);
     .lending-about-section2.sp{
         padding-top: 0;
     }
+
+    .dtc-work.lending-about-section2.sp{
+        padding:45px 0 !important;
+    }
     .lending-footer-logo{
         text-align: left;
         padding: 10px 0;
